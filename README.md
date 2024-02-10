@@ -55,6 +55,13 @@
 
 ### Bônus: Publicando seu projeto
 - Explicando como publicar o piano no github
+- Acessar Settings do projeto
+    - Pages
+    - main / root / save
+    - Clique em save
+    - Depois de um tempo será gerado um link para acessar a página com o projeto
 
 ### Entendendo o desafio
 - Entregando o desafio com o link do projeto no github
+- https://github.com/FelipeTD/piano-game
+- https://felipetd.github.io/piano-game/
